@@ -11,7 +11,7 @@ connect to controller works setup depends on controller
 |B                    |C                 |
 |l                    |Q                 |
 |Start                |Enter             |
-|---------------------|------------------|
+
 ###misc
 you can save
 ##how to get app
