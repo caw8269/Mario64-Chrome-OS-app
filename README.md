@@ -13,8 +13,11 @@ connect to controller works setup depends on controller
 |Start                |Enter             |
 
 ###misc
+
 you can save
+
 ##how to get app
+
 []go to file labeled sm64
 []download it
 []open up extension settings
