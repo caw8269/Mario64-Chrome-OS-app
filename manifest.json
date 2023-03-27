@@ -1,0 +1,17 @@
+{
+    "name": "Super Mario 64",
+    "short_name": "SM64",
+    "theme_color": "#000",
+    "background_color": "#000",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://caw8269.github.io/Mario64-Chrome-OS-app/",
+    "description": "a Super Mario 64 emulator",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/assets/images/favicon_128.jpeg",
+            "sizes": "1024x1024"
+        }
+    ]
+}
