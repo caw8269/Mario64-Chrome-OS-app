@@ -8,10 +8,10 @@
     },
     "app": {
     "urls": [
-    "https://caw8269.github.io/Mario64webgl/"
+    "https://caw8269.github.io/Mario64-Chrome-OS-app/"
     ],
     "launch": {
-    "web_url": "https://caw8269.github.io/Mario64webgl/"
+    "web_url": "https://caw8269.github.io/Mario64-Chrome-OS-app/"
     }
     }
     }
