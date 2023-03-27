@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Super Mario 64 on the Web!</title>
-    <link rel="icon" type="image/x-icon" href="/assets/images/mario face 2.jpeg">
+    <title>Super Mario 64</title>
+    <link rel="icon" type="image/x-icon" href="/assets/images/favicon_128.jpeg">
     <style>
       body, html{
     margin: 0;
@@ -78,5 +78,12 @@
     <script async type="text/javascript" src="sm64.us.f3dex2e.js"></script>
     <script>
     </script>
+    <script>
+      if (!navigator.serviceWorker.controller) {
+          navigator.serviceWorker.register("/sw.js").then(function(reg) {
+              console.log("Service worker has been registered for scope: " + reg.scope);
+          });
+      }
+     </script>
   </body>
 </html>
